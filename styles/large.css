@@ -1,8 +1,12 @@
-@media screen and (max-width: 32.5em) {
+@media screen and (max-width: 600px) {
 
     /* iphone 12 pro or mobile */
-    header ,h1,.ted{
-        font-size: 2rem;
+    
+    header{
+        font-size: 1rem;
+    }
+     .ted{
+        font-size: rem;
     }
     .pro img{
         width: 80%;
